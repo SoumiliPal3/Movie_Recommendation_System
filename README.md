@@ -18,10 +18,10 @@ The Movie Recommendation System provides personalized movie suggestions to users
 
 ## Features
 
-- **Content-Based Filtering:** Recommends movies based on the content features (e.g., genre, director, cast).
-- **Collaborative Filtering:** Suggests movies by finding similarities between users and their ratings.
-- **Hybrid Model:** Combines multiple recommendation strategies to improve accuracy.
 - **Interactive User Interface:** Simple and user-friendly interface to input preferences and receive recommendations.
+- **Content-Based Filtering:** Recommends movies based on the content features (e.g., genre, director, cast).
+- **Hybrid Model:** Combines multiple recommendation strategies to improve accuracy.
+
 
 ## Installation
 
