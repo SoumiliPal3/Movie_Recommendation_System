@@ -7,6 +7,7 @@ This project is a **Movie Recommendation System** developed as part of an intern
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Dataset](#dataset)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 - [License](#license)
@@ -45,6 +46,10 @@ The Movie Recommendation System provides personalized movie suggestions to users
 - Run the Jupyter notebook to see the recommendation system in action.
 - Modify the input data or parameters to customize the recommendations.
 - Explore different recommendation algorithms and compare their performance.
+
+## Dataset
+The dataset used in this project can be accessed. [Click here]([https://example.com/dataset](https://www.kaggle.com/datasets/meastanmay/imdb-dataset?select=tmdb_5000_movies.csv)).
+
 
 ## Technologies Used
 - Python
