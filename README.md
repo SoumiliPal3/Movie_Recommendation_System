@@ -1,4 +1,7 @@
 # Movie Recommendation System
+[![python](https://img.shields.io/badge/Python-3.9-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org) 
+[![jupyter](https://img.shields.io/badge/Jupyter-Lab-F37626.svg?style=flat&logo=Jupyter)](https://jupyterlab.readthedocs.io/en/stable)
+
 
 This project is a **Movie Recommendation System** developed as part of an internship training program at Ardent Computech Pvt. Ltd . The system is designed to suggest movies to users based on various recommendation algorithms.
 
@@ -67,5 +70,7 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 
 ## Contact
 For any questions or inquiries, please reach out to Soumili Pal at [sou.enquiry@gmail.com](#sou.enquiry@gmail.com) .
+
+Please do ⭐ the repository, if it helped you in anyway.
 
 <a href="#top">Back to top</a>
