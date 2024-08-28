@@ -1,6 +1,6 @@
 # Movie Recommendation System
 
-This project is a **Movie Recommendation System** developed as part of an internship training program at **[Your Company Name]**. The system is designed to suggest movies to users based on various recommendation algorithms.
+This project is a **Movie Recommendation System** developed as part of an internship training program at Ardent CompuTech Pvt.Ltd. The system is designed to suggest movies to users based on various recommendation algorithms.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
