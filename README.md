@@ -48,7 +48,7 @@ The Movie Recommendation System provides personalized movie suggestions to users
 - Explore different recommendation algorithms and compare their performance.
 
 ## Dataset
-The dataset used in this project can be accessed [here](https://www.kaggle.com/datasets/meastanmay/imdb-dataset?select=tmdb_5000_movies.csv).
+The dataset used in this project can be accessed [here](https://www.kaggle.com/datasets/meastanmay/imdb-dataset).
 
 
 ## Technologies Used
